@@ -1,0 +1,35 @@
+-------------------------------------------------------------
+Weather Stats for - KOCHI  || 23 Jun 2021 | 02:08:59 PM
+-------------------------------------------------------------
+Current temperature is: 26.99 deg C
+Current weather desc  : light rain
+Current Humidity      : 87 %
+Current wind speed    : 4.55 kmph
+-------------------------------------------------------------
+Weather Stats for - PATHANAMTHITTA  || 23 Jun 2021 | 02:11:21 PM
+-------------------------------------------------------------
+Current temperature is: 24.59 deg C
+Current weather desc  : broken clouds
+Current Humidity      : 93 %
+Current wind speed    : 1.56 kmph
+-------------------------------------------------------------
+Weather Stats for - DELHI  || 23 Jun 2021 | 02:11:38 PM
+-------------------------------------------------------------
+Current temperature is: 38.05 deg C
+Current weather desc  : haze
+Current Humidity      : 30 %
+Current wind speed    : 2.06 kmph
+-------------------------------------------------------------
+Weather Stats for - MUMBAI  || 23 Jun 2021 | 02:11:46 PM
+-------------------------------------------------------------
+Current temperature is: 30.99 deg C
+Current weather desc  : haze
+Current Humidity      : 74 %
+Current wind speed    : 5.66 kmph
+-------------------------------------------------------------
+Weather Stats for - KHOBAR  || 23 Jun 2021 | 02:11:57 PM
+-------------------------------------------------------------
+Current temperature is: 36.96 deg C
+Current weather desc  : clear sky
+Current Humidity      : 34 %
+Current wind speed    : 5.14 kmph
